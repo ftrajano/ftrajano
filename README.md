@@ -1,4 +1,5 @@
-### Bio:
+## Bio: 
+He/Him
 ---
 * I'm a professor at Universidade Federal de Pernambuco(UFPE) - CAA / Sou professor na Universidade Federal de Pernambuco
 * Bsc/MSc in Mathematics (UFPE) / Bacharel e Mestre em Matemática pela UFPE
@@ -7,8 +8,6 @@
 
 <!--
 **ftrajano/ftrajano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,3 +18,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tools
+---
+* I'm confindent using: Python: Pandas, Scikit-Learn, Numpy, TensorFlor, Jupyternotebooks, Beautifulsoup etc.
+*  I have knowledge: Java, JavaScript, Html, Relational Databases (Oracle, Postgres, MySql), NoSQL (MongoDB)
+*  With a little help: Django, Flask
+
+
+## Interests
+---
+* Finance
+* Machine Learning
+* Data Science
+* Business Inteligence
+* Image Processing
+* Natural Language Processing
