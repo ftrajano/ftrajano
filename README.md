@@ -1,4 +1,4 @@
-### Bio: 👋
+### Bio:
 ---
 * I'm a professor at Universidade Federal de Pernambuco(UFPE) - CAA / Sou professor na Universidade Federal de Pernambuco
 * Bsc/MSc in Mathematics (UFPE) / Bacharel e Mestre em Matemática pela UFPE
