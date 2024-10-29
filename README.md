@@ -19,30 +19,11 @@ He/Him
 - ⚡ Fun fact: ...
 -->
 
-## Technical Skills
+## Tools 
 
-### Primary Stack
-* **Python Ecosystem**
- * Pandas, Scikit-Learn, NumPy, TensorFlow
- * Jupyter Notebooks, BeautifulSoup
-* **Web Development**
- * Django, JavaScript, React
- * RESTful API Development
-* **Databases**
- * Relational: Oracle, PostgreSQL, MySQL
- * NoSQL: MongoDB
-
-### Additional Skills
-* **Backend Development**
- * Flask
- * Java
-* **Frontend Technologies**
- * HTML/CSS
- * State Management
-* **Developer Tools**
- * Git/Version Control
- * IDE: VS Code
-
+* I'm confindent using: Python: Pandas, Scikit-Learn, Numpy, TensorFlor, Jupyternotebooks, Beautifulsoup etc.
+*  I have knowledge: Java, JavaScript, Html, Relational Databases (Oracle, Postgres, MySql), NoSQL (MongoDB)
+*  With a little help: Django, Flask 
 
 ## Interests
 
