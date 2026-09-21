@@ -22,8 +22,8 @@ He/Him
 ## Tools 
 
 * I'm confindent using: Python: Pandas, Scikit-Learn, Numpy, TensorFlor, Jupyternotebooks, Beautifulsoup etc.
-*  I have knowledge: Java, JavaScript, Html, Relational Databases (Oracle, Postgres, MySql), NoSQL (MongoDB)
-*  With a little help: Django, Flask 
+*  I have knowledge: Django, Flask, Java, JavaScript, Html, Relational Databases (Oracle, Postgres, MySql), NoSQL (MongoDB)
+  
 
 ## Interests
 
